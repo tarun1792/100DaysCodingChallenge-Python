@@ -5,5 +5,5 @@ This respository is part of my 100 days coding challenge in python. The repo wil
 - [LinkedLists](/DataStructures/python/LinkedList/)
 
 # Python basics
- - [Python variables](Days/Day%201/variables.py)
- - [Python DataTypes](Days/Day%201/dataTypes.py)
+ - [Python variables](Python-Basics/Variables/variables.py)
+ - [Python DataTypes](Python-Basics/DataTypes/dataTypes.py)
