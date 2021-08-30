@@ -3,6 +3,11 @@ This respository is part of my 100 days coding challenge in python. The repo wil
 
 # DataStructures
 - [LinkedLists](/DataStructures/python/LinkedList/)
+  - [LinkedLists](/DataStructures/python/LinkedList/LinkedList.py)
+  - [Middle of linked list](/DataStructures/python/LinkedList/MiddleOfLinkedList.py)
+  - [Linked list is palindrom](/DataStructures/python/LinkedList/linkedListIsPalindrom.py)
+  - [Reverse linked list](/DataStructures/python/LinkedList/reverseLinkedList.py)
+  - [Rotate linked list by kth element](/DataStructures/python/LinkedList/rotateLinkedListByKthElement.py)
 
 # Python basics
  - [Python variables](Python-Basics/Variables/variables.py)
