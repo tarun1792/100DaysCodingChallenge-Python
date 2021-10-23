@@ -9,6 +9,8 @@ This respository is part of my 100 days coding challenge in python. The repo wil
   - [Reverse linked list](/DataStructures/python/LinkedList/reverseLinkedList.py)
   - [Rotate linked list by kth element](/DataStructures/python/LinkedList/rotateLinkedListByKthElement.py)
 - [Tree](/DataStructures/python/tree/)
+  - [Binary tree](DataStructures/python/tree/binaryTree.py)
+  - [Height of binary tree](DataStructures/python/tree/Height_of_tree.py)   
 
 # Python basics
  - [Python variables](Python-Basics/Variables/variables.py)
