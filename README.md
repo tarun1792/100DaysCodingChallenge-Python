@@ -12,6 +12,9 @@ This respository is part of my 100 days coding challenge in python. The repo wil
   - [Binary tree](DataStructures/python/tree/binaryTree.py)
   - [Height of binary tree](DataStructures/python/tree/Height_of_tree.py)   
 
+# LeetCode
+- [Maximum sum of subArray](/DataStructures/LeetCode/MaxSumOfSubArray.py)
+
 # Python basics
  - [Python variables](Python-Basics/Variables/variables.py)
  - [Python DataTypes](Python-Basics/DataTypes/dataTypes.py)
