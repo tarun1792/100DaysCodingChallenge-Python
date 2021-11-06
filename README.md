@@ -15,6 +15,7 @@ This respository is part of my 100 days coding challenge in python. The repo wil
 # LeetCode
 - [Maximum sum of subArray](/DataStructures/LeetCode/MaxSumOfSubArray.py)
 - [Longest substring without repeating](/DataStructures/LeetCode/longestSubstringWithoutRepeating.py)
+- [Median of sorted merged array](/DataStructures/LeetCode/medianOfSortedMergedArray.py)
 
 # Python basics
  - [Python variables](Python-Basics/Variables/variables.py)
